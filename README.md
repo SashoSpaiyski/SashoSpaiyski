@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m currently studying Web Development at Software University.
+I’m currently studying Web Development at <a href="https://softuni.bg/">Software University</a>.
 
 Completed courses:
 |💻**Course**|:scroll:| 
