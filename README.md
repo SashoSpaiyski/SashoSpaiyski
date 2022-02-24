@@ -13,6 +13,7 @@ Completed courses:
 |JS Applications| <a href="https://softuni.bg/Certificates/Details/120953/397411c9">  :heavy_check_mark: Certificate</a> |
 |Algorithms Fundamentals with Java| <a href="https://softuni.bg/certificates/details/122916/ebb5b653"> :heavy_check_mark:  Certificate</a> |
 |MySQL| <a href="https://softuni.bg/Certificates/Details/123502/d7b501c0">  :heavy_check_mark: Certificate</a> |
+|Algorithms Advanced with Java| <a href="https://softuni.bg/certificates/details/123606/6ff6a23c"> :heavy_check_mark:  Certificate</a> |
 
 - 💌 Email: sashospaiyski@gmail.com
 - 💼 LinkedIn: <a href="https://www.linkedin.com/in/sasho-spaiyski/">SashoSpaiyski</a>  
