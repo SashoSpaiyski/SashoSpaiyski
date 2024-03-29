@@ -17,4 +17,5 @@ Completed courses:
 
 - 💌 Email: sashospaiyski@gmail.com
 - 💼 LinkedIn: <a href="https://www.linkedin.com/in/sasho-spaiyski/">SashoSpaiyski</a>  
-- 💻 Ready to use Single Page Application: <a href="https://gamesplay-js.github.io/">GamesPlay</a>  
+- 💻 Ready to use Single Page Application (vanilla js): <a href="https://gamesplay-js.github.io/">GamesPlay</a>
+- 💻 Ready to use React Application: <a href="https://react-rick-delta.vercel.app/">Rick&Morty</a>  
